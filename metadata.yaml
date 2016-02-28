@@ -1,0 +1,31 @@
+_repo: A-Woman-s-Way-Through-Unknown-Labrador_4266
+creator:
+  author:
+    agent_name: Hubbard, Mina
+    aliases:
+    - Benson, Mina
+    - Hubbard, Mrs. Leonidas
+    - Ellis, Mina Benson Hubbard
+    birthdate: 1870
+    deathdate: 1956
+    gutenberg_agent_id: '1422'
+    url: http://www.gutenberg.org/2009/agents/1422
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women explorers -- Newfoundland and Labrador -- Labrador -- Biography'
+- !lcsh 'Hubbard, Leonidas, 1872-1903 -- Travel -- Newfoundland and Labrador -- Labrador'
+- !lcc 'F1001'
+- !lcsh 'Labrador (N.L.) -- Description and travel'
+- !lcsh 'Labrador (N.L.) -- Discovery and exploration'
+- !lcsh 'Hubbard, Mina -- Travel -- Newfoundland and Labrador -- Labrador'
+- !lcsh 'Explorers -- Newfoundland and Labrador -- Labrador -- Biography'
+title: A Woman's Way Through Unknown Labrador
+url: http://www.gutenberg.org/ebooks/4266
