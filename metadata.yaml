@@ -1,5 +1,8 @@
 _repo: A-Woman-s-Way-Through-Unknown-Labrador_4266
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hubbard, Mina
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '1422'
     url: http://www.gutenberg.org/2009/agents/1422
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4266#A-Woman-s-Way-Through-Unknown-Labrador
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
