@@ -1,5 +1,5 @@
 _repo: A-Woman-s-Way-Through-Unknown-Labrador_4266
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Labrador (N.L.) -- Discovery and exploration'
 - !lcsh 'Hubbard, Mina -- Travel -- Newfoundland and Labrador -- Labrador'
 - !lcsh 'Explorers -- Newfoundland and Labrador -- Labrador -- Biography'
+- GITenberg
 title: A Woman's Way Through Unknown Labrador
 url: http://www.gutenberg.org/ebooks/4266
